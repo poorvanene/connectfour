@@ -1,4 +1,3 @@
-'''POORVA NENE 38426682'''
 import connectfour
 
 '''module that consists of the functions that are the same in both user interfaces'''
