@@ -1,4 +1,3 @@
-'''POORVA NENE 38426682'''
 import connectfour_network
 import connectfour
 import connectfour_common
